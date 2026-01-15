@@ -2,7 +2,7 @@ public class Test {
 
     static void add()
     {
-        int a=5;
+        int a=10;
         int b=20;
         int c=70;
         int res=a+b+c;
